@@ -10,15 +10,16 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 
 ### Listado 📋
 
-* 1. [Usuario: @wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) - [Cuenta: @bolivarwuilmer](https://twitter.com/BolivarWuilmer)
-* 2. [Usuario: @conclave](https://forum.batcommunity.org/u/conclave) - [Cuenta: @elperfilbajo](https://www.twitter.com/elperfilbajo)
-* 3. [Usuario: @bravehispano](https://forum.batcommunity.org/u/bravehispano) - [Cuenta: @bravehispano](https://twitter.com/BraveHispano)
+* [Usuario: @wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) - [Cuenta: @bolivarwuilmer](https://twitter.com/BolivarWuilmer)
+* [Usuario: @conclave](https://forum.batcommunity.org/u/conclave) - [Cuenta: @elperfilbajo](https://www.twitter.com/elperfilbajo)
+* [Usuario: @bravehispano](https://forum.batcommunity.org/u/bravehispano) - [Cuenta: @bravehispano](https://twitter.com/BraveHispano)
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre esta propuesta 📢
-* Invita un café ☕ a alguien de la lista con un tip (propina). 
-* Da las gracias públicamente 🤓.
+* 1. Comenta a otros sobre esta propuesta 📢
+* 2. Invita un café ☕ a alguien de la lista con un tip (propina). 
+* 3. Da las gracias públicamente 🤓.
+* 4. Etiquetas: #DonarBAT y #BAT_Community_Es
 
 ### Agradecimientos realizados
 
