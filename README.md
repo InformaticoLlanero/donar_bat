@@ -23,9 +23,9 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 
 ### Agradecimientos realizados
 
-* 1. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) a [kiwibloke](https://forum.batcommunity.org/u/kiwibloke) en [twitter](https://twitter.com/BolivarWuilmer/status/1269560850278481921)
-* 2. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) a [bravehispano](https://forum.batcommunity.org/u/bravehispano)
-* 3. [conclave](https://forum.batcommunity.org/u/conclave) a [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) en [twitter](https://twitter.com/BolivarWuilmer/status/1271111980624027650)
+* 1. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) agradece a [kiwibloke](https://forum.batcommunity.org/u/kiwibloke) en [twitter](https://twitter.com/BolivarWuilmer/status/1269560850278481921)
+* 2. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) agradece a [bravehispano](https://forum.batcommunity.org/u/bravehispano)
+* 3. [conclave](https://forum.batcommunity.org/u/conclave) agradece a [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) en [twitter](https://twitter.com/BolivarWuilmer/status/1271111980624027650)
 
 ---
 ⌨️ mas información [forum.batcommunity.org](https://forum.batcommunity.org/t/dona-bat-a-un-usuario-de-la-lista/)
