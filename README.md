@@ -12,6 +12,7 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 
 * 1. [Usuario: @wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) - [Cuenta: @bolivarwuilmer](https://twitter.com/BolivarWuilmer)
 * 2. [Usuario: @conclave](https://forum.batcommunity.org/u/conclave) - [Cuenta: @elperfilbajo](https://www.twitter.com/elperfilbajo)
+* 3. [Usuario: @bravehispano](https://forum.batcommunity.org/u/bravehispano) - [Cuenta: @bravehispano](https://twitter.com/BraveHispano)
 
 ## Expresiones de Gratitud 🎁
 
