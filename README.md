@@ -5,8 +5,8 @@ _Listado de miembros del [foro de la comunidad brave](https://forum.batcommunity
 
 _En este apartado encontrara una lista de usuarios de la comunidad que desean recibir donaciones (tip) en BAT y participar donando a otros usuarios, lo que permite un intercambio mutuo._
 
-* Usuario: Un enlace al perfil del usuario de la comunidad.
-* Cuenta: Un enlace al perfil de alguna red social verificada del usuario.
+* **Usuario:** Un enlace al perfil del usuario de la comunidad.
+* **Cuenta:** Un enlace al perfil de alguna red social verificada del usuario.
 
 ## Listado 📋
 
@@ -23,9 +23,9 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 
 ### Agradecimientos realizados
 
-* 1. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) agradece a [kiwibloke](https://forum.batcommunity.org/u/kiwibloke) en [twitter](https://twitter.com/BolivarWuilmer/status/1269560850278481921)
-* 2. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) agradece a [bravehispano](https://forum.batcommunity.org/u/bravehispano)
-* 3. [conclave](https://forum.batcommunity.org/u/conclave) agradece a [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) en [twitter](https://twitter.com/BolivarWuilmer/status/1271111980624027650)
+* [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) agradece a [kiwibloke](https://forum.batcommunity.org/u/kiwibloke) en [twitter](https://twitter.com/BolivarWuilmer/status/1269560850278481921)
+* [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) agradece a [bravehispano](https://forum.batcommunity.org/u/bravehispano)
+* [conclave](https://forum.batcommunity.org/u/conclave) agradece a [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) en [twitter](https://twitter.com/BolivarWuilmer/status/1271111980624027650)
 
 ---
 ⌨️ mas información [forum.batcommunity.org](https://forum.batcommunity.org/t/dona-bat-a-un-usuario-de-la-lista/)
