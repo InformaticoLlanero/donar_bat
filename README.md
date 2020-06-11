@@ -23,6 +23,7 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 ### Agradecimientos realizados
 
 * 1. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) to [kiwibloke](https://forum.batcommunity.org/u/kiwibloke)
+* 2. [wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) to [bravehispano](https://forum.batcommunity.org/u/bravehispano)
 
 ---
 ⌨️ mas información [forum.batcommunity.org](https://forum.batcommunity.org/t/dona-bat-a-un-usuario-de-la-lista/)
