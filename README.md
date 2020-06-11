@@ -8,7 +8,7 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 * Usuario: Un enlace al perfil del usuario de la comunidad.
 * Cuenta: Un enlace al perfil de alguna red social verificada del usuario.
 
-### Listado 📋
+## Listado 📋
 
 * [Usuario: @wuilmerbolivar](https://forum.batcommunity.org/u/wuilmerbolivar) - [Cuenta: @bolivarwuilmer](https://twitter.com/BolivarWuilmer)
 * [Usuario: @conclave](https://forum.batcommunity.org/u/conclave) - [Cuenta: @elperfilbajo](https://www.twitter.com/elperfilbajo)
