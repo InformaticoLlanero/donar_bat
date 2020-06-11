@@ -19,7 +19,7 @@ _En este apartado encontrara una lista de usuarios de la comunidad que desean re
 * 1. Comenta a otros sobre esta propuesta 📢
 * 2. Invita un café ☕ a alguien de la lista con un tip (propina). 
 * 3. Da las gracias públicamente 🤓.
-* 4. Etiquetas: #DonarBAT y #BAT_Community_Es
+* 4. Etiqueta: [#DonarBAT](https://twitter.com/hashtag/DonarBAT)
 
 ### Agradecimientos realizados
 
